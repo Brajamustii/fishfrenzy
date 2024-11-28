@@ -3,13 +3,14 @@
 Building the onchain economy with @base. Fishing is just the start. 🐟 Developed by @gguncharted
 
 - Twitter [@FishingFrenzyCo](https://x.com/fishingfrenzyco)
-- Website [https://fishingfrenzy.co](https://fishingfrenzy.co?code=YJH7J8)
+- Website [https://fishingfrenzy.co](https://fishingfrenzy.co?code=KNL876)
 
-![banner](image.png)
+![29 11 2024_04 09 27_REC](https://github.com/user-attachments/assets/64bc9071-1101-46f3-9f35-f743b272609f)
+
 
 ## Features
 
-- **Register Accounts Using New Wallets**
+- **Auto Register Accounts Using New Wallets**
 - **Load Existing Tokens**: Load pre-existing tokens if you already have account.
 - **Auto Fishing**
 - **Auto Daily Checkin**
@@ -20,14 +21,15 @@ Building the onchain economy with @base. Fishing is just the start. 🐟 Develop
 
 # Buy Proxies
 - Free Proxies Static Residental: 
-1. [WebShare](https://www.webshare.io/?referral_code=p7k7whpdu2jg)
-2. [ProxyScrape](https://proxyscrape.com/?ref=odk1mmj)
+1. [WebShare](https://www.webshare.io/?referral_code=mbwik5fbeoao)
+2. [ProxyScrape](https://proxyscrape.com/?ref=yty0njq)
 3. [MonoSans](https://github.com/monosans/proxy-list)
 
 - Paid Premium Static Residental:
-1. [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed)
-2. [Proxy-Cheap](https://app.proxy-cheap.com/r/JysUiH)
-3. [Infatica](https://dashboard.infatica.io/aff.php?aff=544)
+1. [922proxy](https://www.922proxy.com/register?inviter_code=cf95a585)
+2. [Proxy-Cheap](https://app.proxy-cheap.com/r/MmMWVu)
+3. [Flash Proxy](https://www.flashproxy.io/auth/register?r=dd4050a1-52e7-4fe0-a26b-e1487039e010)
+4. [Data Impulse](https://dataimpulse.com/?aff=70583)
 
 # Get Bearer Token
 - Open [https://fishingfrenzy.co](https://fishingfrenzy.co?code=YJH7J8)
